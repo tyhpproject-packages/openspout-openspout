@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/openspout-openspout
 
-Tyhp type definitions for `openspout/openspout` `4.32.0`.
+Tyhp type definitions for `openspout/openspout` `5.11.3`.
 
 ```bash
-composer require --dev tyhpdef/openspout-openspout:4.32.0
+composer require --dev tyhpdef/openspout-openspout:5.11.3
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/openspout-openspout-impl` (type files).
