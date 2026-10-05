@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/openspout-openspout",
+    "description": "Tyhp type definitions for openspout/openspout 4.32.0.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "4.32.0",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/openspout-openspout-impl": "~4.32.0.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/openspout-openspout-impl"
+        }
+    }
+}
